@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <div className='text-white'>
             <div className="max-w-[900px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
-                <p className='text-[#00df9a] font-bold p-2'>GROWING WITH DATA ANALYTICS</p>
+                <p className='text-[#00df9a] font-bold p-2'>Learning Tailwind CSS</p>
                 <h1 className='md:text-5xl sm:text-4xl text-2xl font-bold md:py-6'>The one and only Ranish</h1>
                 <div className='flex items-center justify-center '>
                     <p className='md:text-5xl sm:text-4xl text-xl letter-spacing:3px'>Popular among teens as </p>
